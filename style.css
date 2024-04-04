@@ -314,7 +314,7 @@ background-color: #fc8004;
 color: #fff;
 }
 .schedule_box{
-  background:url(../img/consultation.jpg);
+  background:url(consultation.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 70px;
@@ -330,7 +330,7 @@ color: #fff;
     font-size: 40px;
 }
 .maintnc_sec{
-    background: url(../img/plan_bg.jpg);
+    background: url(plan_bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: #fff;
@@ -468,7 +468,7 @@ color: #fff;
     border-radius: 30px;
 }
 .contact_sec {
-    background: url(../img/book_bg.jpg) no-repeat center/cover;
+    background: url(book_bg.jpg) no-repeat center/cover;
     background-position: center left;
 }
 .contact_form .sec_head {
